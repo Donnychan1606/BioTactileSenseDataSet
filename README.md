@@ -1,5 +1,7 @@
 This dataset encompasses a comprehensive collection of data from a biomechanical tactile sensor array, systematically gathered using a pneumatic device. The dataset is uniquely characterized by its inclusion of static, dynamic, and fatigue testing conditions, providing a multifaceted view of sensor performance and behavior under varied stimuli.
 
+The data is saved in Google's cloud storage. Please click the following link to download the complete dataset: https://drive.google.com/drive/folders/1guMXFfzL7g3ctiylD6ZpBfzZCMRVt9WI?usp=share_link
+
 The tactile sensors, based on capacitive multi-channel pressure sensor technology, offer high-resolution data capturing subtle interactions between the biomedical device and its environment. This feature is critical for advancing research in fields such as prosthetics, robotic surgery, and tactile diagnostics, where nuanced pressure information is paramount.
 
 The dynamic portion captures the sensor's performance under changing conditions, emulating real-world biomedical applications. The fatigue data, collected over repeated cycles of stress, provides insight into the sensor's durability and long-term stability.
